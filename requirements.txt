@@ -1,0 +1,9 @@
+openai
+transformers
+diffusers
+torch
+sentence-transformers
+rouge-score
+nltk
+spacy
+scikit-learn
